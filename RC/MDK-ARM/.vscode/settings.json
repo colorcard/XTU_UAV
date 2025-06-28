@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "draw_3d.h": "c",
+        "math.h": "c",
+        "encoder.h": "c",
+        "menu.h": "c",
+        "oled.h": "c",
+        "delay.h": "c",
+        "nrf24l01.h": "c",
+        "my_interrupt.h": "c",
+        "madgwickahrs.h": "c"
+    }
+}

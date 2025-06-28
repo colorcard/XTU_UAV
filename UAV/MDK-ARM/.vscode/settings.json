@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "delay.h": "c",
+        "madgwickahrs.h": "c",
+        "my_interrupt.h": "c",
+        "nrf24l01.h": "c",
+        "global.h": "c",
+        "mpu6050.h": "c"
+    }
+}
